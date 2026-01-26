@@ -79,5 +79,4 @@ This project is licensed under the MIT License.
 
 ---
 
-If you want a **shorter**, **more professional**, or **React-based** version, tell me the vibe and I’ll tailor it exactly 👌
 ```
